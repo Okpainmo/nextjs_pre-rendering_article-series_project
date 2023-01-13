@@ -1,4 +1,4 @@
-# nextjs_pre-rendering_article-series_projects
+# nextjs_pre-rendering_article-series_project
 
 This project is a technical writing project. The project consist of four in-depth articles which provide a deep dive into the world of pre-rendering in NextJS.
 
