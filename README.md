@@ -10,4 +10,12 @@ The articles cover an introduction into pre-rendering in NextJs, plus the differ
 
 > This repository consist of three different NextJs projects - each of the three projects is built to explain one of the three pre-rendering techniques listed above. The project is to cover the various pre-rendering techniques for both NextJS version 12 and NextJs version 13.
 
+## Tech stack.
+
+Each of the following project is built with the following tech stack.
+
+- NextJs.
+- tailwind css.
+- relevant APIs
+
 ## Link to articles - to be added soon...
